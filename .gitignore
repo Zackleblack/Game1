@@ -73,3 +73,9 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Content/Adventures_Pack/Textures/Adventure_04/Adventure_04_Sniper_Rifle/T_Sniper_Rifle_Normals.uasset
+Content/Adventures_Pack/Textures/Adventure_03/Character/T_Adventure_03_Normals.uasset
+Content/Adventures_Pack/Textures/Adventure_03/Gun/T_Adventure_03_Gun_Normal.uasset
+Content/Adventures_Pack/Textures/Adventure_03/Hairs/T_Adventure_03_Hair_Normals.uasset
+Content/Adventures_Pack/Textures/Adventure_03/Knife/T_Adventure_03_Knife_Normals.uasset
+Content/Adventures_Pack/Textures/Adventure_04/Adventure_04/T_Adventure_04_Normals.uasset
+Content/Adventures_Pack/Textures/Adventure_04/Adventure_04_Hair/T_Adventure_04_Hair_Normals.uasset
